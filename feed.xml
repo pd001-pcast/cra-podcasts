@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>CRA Intelligence Briefing</title>
+    <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
+    <language>en-us</language>
+    <link>https://pd001-pcast.github.io/cra-podcasts</link>
+    <lastBuildDate>Tue, 17 Mar 2026 03:27:09 GMT</lastBuildDate>
+    <itunes:author>CRA Intelligence Briefing</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CRA Daily Briefing — Essentials — March 16, 2026</title>
+      <description>Test episode to verify RSS feed and GitHub publishing pipeline.</description>
+      <pubDate>Tue, 17 Mar 2026 03:27:09 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Essentials_2026-03-16.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Essentials_2026-03-16.mp3" length="4046848" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
