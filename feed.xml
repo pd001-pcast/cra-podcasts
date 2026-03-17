@@ -18,5 +18,11 @@
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
+    <itunes:image href="https://pd001-pcast.github.io/cra-podcasts/Cover.png" />
+    <image>
+      <url>https://pd001-pcast.github.io/cra-podcasts/Cover.png</url>
+      <title>CRA Intelligence Briefing</title>
+      <link>https://pd001-pcast.github.io/cra-podcasts</link>
+    </image>
   </channel>
 </rss>
