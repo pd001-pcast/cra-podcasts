@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>CRA Intelligence Briefing</title>
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Wed, 18 Mar 2026 04:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 00:06:45 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -30,6 +30,24 @@
       <pubDate>Wed, 18 Mar 2026 03:42:17 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-17.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-17.mp3" length="39973615" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Daily Briefing — Essentials — March 18, 2026</title>
+      <description>Daily CRA intelligence briefing for March 18, 2026. Essentials edition: comprehensive credit news coverage with accessible explanation for listeners building their understanding of the credit rating industry.</description>
+      <pubDate>Thu, 19 Mar 2026 00:06:45 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Essentials_2026-03-18.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Essentials_2026-03-18.mp3" length="35498725" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Daily Briefing — Expert — March 18, 2026</title>
+      <description>Daily CRA intelligence briefing for March 18, 2026. Expert edition: comprehensive credit news coverage with risk management analysis for senior CRA professionals.</description>
+      <pubDate>Thu, 19 Mar 2026 00:06:45 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-18.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-18.mp3" length="36021137" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
