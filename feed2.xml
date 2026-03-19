@@ -5,7 +5,7 @@
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Thu, 19 Mar 2026 00:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 00:23:25 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -48,6 +48,24 @@
       <pubDate>Thu, 19 Mar 2026 00:06:45 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-18.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-18.mp3" length="36021137" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Daily Briefing — Essentials — March 19, 2026</title>
+      <description>Daily CRA intelligence briefing for March 19, 2026. Essentials edition: comprehensive credit news coverage with accessible explanation for listeners building their understanding of the credit rating industry.</description>
+      <pubDate>Fri, 20 Mar 2026 00:23:25 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Essentials_2026-03-19.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Essentials_2026-03-19.mp3" length="44284789" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Daily Briefing — Expert — March 19, 2026</title>
+      <description>Daily CRA intelligence briefing for March 19, 2026. Expert edition: comprehensive credit news coverage with risk management analysis for senior CRA professionals.</description>
+      <pubDate>Fri, 20 Mar 2026 00:23:25 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-19.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-19.mp3" length="29166000" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
