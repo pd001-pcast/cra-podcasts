@@ -5,7 +5,7 @@
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Fri, 20 Mar 2026 00:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 11:11:23 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -66,6 +66,24 @@
       <pubDate>Fri, 20 Mar 2026 00:23:25 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-19.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Expert_2026-03-19.mp3" length="29166000" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Weekly Recap — Essentials — March 21, 2026</title>
+      <description>Weekly CRA intelligence recap for the week ending March 21, 2026. Essentials edition: full week in review with accessible explanation.</description>
+      <pubDate>Sun, 22 Mar 2026 11:11:23 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Recap_Essentials_2026-03-21.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Recap_Essentials_2026-03-21.mp3" length="35632445" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Weekly Recap — Expert — March 21, 2026</title>
+      <description>Weekly CRA intelligence recap for the week ending March 21, 2026. Expert edition: full week risk management analysis.</description>
+      <pubDate>Sun, 22 Mar 2026 11:11:23 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Recap_Expert_2026-03-21.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Recap_Expert_2026-03-21.mp3" length="36916321" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
