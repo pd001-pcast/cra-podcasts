@@ -5,7 +5,7 @@
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Thu, 09 Apr 2026 19:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 19:37:37 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -210,6 +210,24 @@
       <pubDate>Thu, 09 Apr 2026 19:39:43 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-09.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-09.mp3" length="35737893" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Weekly Recap — Credit Markets — April 11, 2026</title>
+      <description>Weekly Credit Markets Edition for the week ending April 11, 2026. Synthesis of the week's most significant credit market and CRA industry developments, organized by theme.</description>
+      <pubDate>Sat, 11 Apr 2026 19:37:37 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Markets_2026-04-11.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Markets_2026-04-11.mp3" length="37018034" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Weekly Recap — Credit Risk — April 11, 2026</title>
+      <description>Weekly Credit Risk Edition for the week ending April 11, 2026. Risk management synthesis of the week's developments, for senior risk professionals at mid-size NRSROs.</description>
+      <pubDate>Sat, 11 Apr 2026 19:37:37 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-04-11.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-04-11.mp3" length="34793288" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
