@@ -5,7 +5,7 @@
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Sat, 11 Apr 2026 19:37:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 19:40:06 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -228,6 +228,24 @@
       <pubDate>Sat, 11 Apr 2026 19:37:37 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-04-11.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-04-11.mp3" length="34793288" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Briefing — Monday Week Ahead — Credit Markets — April 13, 2026</title>
+      <description>Monday week-ahead Credit Markets Edition for April 13, 2026. Key recent credit market developments and what to watch this week.</description>
+      <pubDate>Mon, 13 Apr 2026 19:40:06 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Markets_2026-04-13.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Markets_2026-04-13.mp3" length="34370979" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Briefing — Monday Week Ahead — Credit Risk — April 13, 2026</title>
+      <description>Monday week-ahead Credit Risk Edition for April 13, 2026. Risk management lens on recent developments and the week ahead, for senior risk professionals at mid-size NRSROs.</description>
+      <pubDate>Mon, 13 Apr 2026 19:40:06 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-13.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-13.mp3" length="38931896" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
