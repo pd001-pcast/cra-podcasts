@@ -5,7 +5,7 @@
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Sat, 18 Apr 2026 19:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:42:34 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -264,6 +264,24 @@
       <pubDate>Sat, 18 Apr 2026 19:38:57 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-04-18.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-04-18.mp3" length="38717380" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Briefing — Thursday Check-In — Credit Markets — April 23, 2026</title>
+      <description>Thursday mid-week Credit Markets Edition for April 23, 2026. Credit market developments since Monday and what they mean.</description>
+      <pubDate>Thu, 23 Apr 2026 19:42:34 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Markets_2026-04-23.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Markets_2026-04-23.mp3" length="38392302" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Briefing — Thursday Check-In — Credit Risk — April 23, 2026</title>
+      <description>Thursday mid-week Credit Risk Edition for April 23, 2026. Risk management analysis of developments since Monday, for senior risk professionals at mid-size NRSROs.</description>
+      <pubDate>Thu, 23 Apr 2026 19:42:34 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-23.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-23.mp3" length="29372299" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
