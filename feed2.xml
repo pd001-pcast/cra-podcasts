@@ -5,7 +5,7 @@
     <description>Daily and weekly AI-generated podcasts covering credit rating agency industry developments, regulatory news, and risk management insights. Produced via Google NotebookLM from curated intelligence briefings.</description>
     <language>en-us</language>
     <link>https://pd001-pcast.github.io/cra-podcasts</link>
-    <lastBuildDate>Mon, 27 Apr 2026 19:42:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:37:23 GMT</lastBuildDate>
     <itunes:author>CRA Intelligence Briefing</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://pd001-pcast.github.io/cra-podcasts/feed2.xml" rel="self" type="application/rss+xml" />
@@ -318,6 +318,42 @@
       <pubDate>Mon, 27 Apr 2026 19:42:29 GMT</pubDate>
       <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-27.mp3</guid>
       <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-04-27.mp3" length="42326852" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Weekly Recap — Credit Markets — May 02, 2026</title>
+      <description>Weekly Credit Markets Edition for the week ending May 02, 2026. Synthesis of the week's most significant credit market and CRA industry developments, organized by theme.</description>
+      <pubDate>Sat, 02 May 2026 19:51:58 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Markets_2026-05-02.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Markets_2026-05-02.mp3" length="35937352" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Weekly Recap — Credit Risk — May 02, 2026</title>
+      <description>Weekly Credit Risk Edition for the week ending May 02, 2026. Risk management synthesis of the week's developments, for senior risk professionals at mid-size NRSROs.</description>
+      <pubDate>Sat, 02 May 2026 19:51:58 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-05-02.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Weekly_Risk_2026-05-02.mp3" length="33889771" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Briefing — Monday Week Ahead — Credit Markets — May 04, 2026</title>
+      <description>Monday week-ahead Credit Markets Edition for May 04, 2026. Key recent credit market developments and what to watch this week.</description>
+      <pubDate>Mon, 04 May 2026 19:37:23 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Markets_2026-05-04.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Markets_2026-05-04.mp3" length="22806382" type="audio/mpeg" />
+      <itunes:duration />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CRA Briefing — Monday Week Ahead — Credit Risk — May 04, 2026</title>
+      <description>Monday week-ahead Credit Risk Edition for May 04, 2026. Risk management lens on recent developments and the week ahead, for senior risk professionals at mid-size NRSROs.</description>
+      <pubDate>Mon, 04 May 2026 19:37:23 GMT</pubDate>
+      <guid isPermaLink="true">https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-05-04.mp3</guid>
+      <enclosure url="https://pd001-pcast.github.io/cra-podcasts/episodes/CRA_Podcast_Risk_2026-05-04.mp3" length="39585786" type="audio/mpeg" />
       <itunes:duration />
       <itunes:explicit>no</itunes:explicit>
     </item>
